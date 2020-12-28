@@ -918,7 +918,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 alcid=50 agdpmod=pikera forceRenderStandby=0 igfxonln=1</string>
+				<string>keepsyms=1 alcid=50 agdpmod=pikera forceRenderStandby=0 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
